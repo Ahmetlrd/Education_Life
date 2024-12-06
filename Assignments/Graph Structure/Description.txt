@@ -1,0 +1,1 @@
+Uses linked lists, quenes, stacks and BFS, DFS search algorithms.
