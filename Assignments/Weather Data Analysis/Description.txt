@@ -1,0 +1,1 @@
+This code analysis dates and their values which are temperature and precipitation. Then the program calculates average temperature, total precipitation, number of dry days and extreme temperatures.
