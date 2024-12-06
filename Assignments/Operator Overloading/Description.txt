@@ -1,0 +1,1 @@
+An implementation of a Binary Search Tree (BST) featuring the use of operator overloading. This assignment focuses on enhancing the BST's functionality by leveraging custom operators for efficient tree operations and manipulations
