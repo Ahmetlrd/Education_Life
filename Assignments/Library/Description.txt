@@ -1,0 +1,1 @@
+This is a simple library code. However, it has external library which is book.cpp. Briefly, the code has 3 options. User can add a new book to the library, select book from the library, and also display all books.
