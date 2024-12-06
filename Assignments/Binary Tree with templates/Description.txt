@@ -1,0 +1,1 @@
+An implementation of a Binary Search Tree (BST) using templates to allow for flexibility with various data types. This project demonstrates the integration of generic programming principles for building and managing a dynamic and type-safe BST.
