@@ -1,0 +1,10 @@
++ 1000 int 12
+<< 1000 int 42
+<< 1004 int 84
+<< 1008 int 126
+display
+>> 1008 int
+>> 1004 int
+>> 1000 int
+display
+- 1005 int
