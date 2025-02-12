@@ -1,0 +1,1 @@
+This application focuses on page transitions using the bottom navigation bar and buttons. Additionally, the user interaction page highlights the Snackbar and Alert features.
