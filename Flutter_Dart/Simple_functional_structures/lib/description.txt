@@ -1,0 +1,1 @@
+A simple interface that includes Hidden Text, switch, CheckBox, RadioTile, Loading Circle,SlideBar, Clock and Date Structure, DropDown Menu(Türkiye, Italy, Japan) and Scroll implementation.
