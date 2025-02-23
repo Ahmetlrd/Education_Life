@@ -1,0 +1,1 @@
+This is a simple shopping application interface, and it contains 2 page (homepage and detail page). The application is using card and elevated button structures. 
