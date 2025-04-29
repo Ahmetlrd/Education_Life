@@ -1,0 +1,5 @@
+Extracted: 100
+Heap:
+TaskID: 102, Priority: 10
+TaskID: 101, Priority: 20
+Extracted: 102
