@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818761514107",
+    "project_id": "suconnect-6ba3b",
+    "storage_bucket": "suconnect-6ba3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818761514107:android:612f3878ec97b21a80f6de",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQTPgh0KSu40N8WQmD3rCR6TcehoK4Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
